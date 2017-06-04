@@ -1,0 +1,139 @@
+
+Newton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm-Left
+  rotate: false
+  xy: 873, 53
+  size: 93, 115
+  orig: 93, 115
+  offset: 0, 0
+  index: -1
+Arm-Right
+  rotate: true
+  xy: 745, 66
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 80
+  size: 224, 174
+  orig: 224, 174
+  offset: 0, 0
+  index: -1
+Eye-Left
+  rotate: false
+  xy: 191, 48
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Eye-Right
+  rotate: false
+  xy: 191, 48
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Foot-Left
+  rotate: false
+  xy: 100, 17
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+Foot-Right
+  rotate: true
+  xy: 531, 32
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+Hair-Left
+  rotate: true
+  xy: 578, 128
+  size: 126, 165
+  orig: 126, 165
+  offset: 0, 0
+  index: -1
+Hair-Right
+  rotate: true
+  xy: 411, 123
+  size: 131, 165
+  orig: 131, 165
+  offset: 0, 0
+  index: -1
+Hand-Left
+  rotate: true
+  xy: 593, 30
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+Hand-Right
+  rotate: false
+  xy: 411, 32
+  size: 118, 89
+  orig: 118, 89
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 228, 90
+  size: 181, 164
+  orig: 181, 164
+  offset: 0, 0
+  index: -1
+Leg-Left
+  rotate: false
+  xy: 228, 2
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+Leg-Right
+  rotate: false
+  xy: 307, 4
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1
+Mouth-Mad
+  rotate: false
+  xy: 2, 5
+  size: 69, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+Mouth-Smile
+  rotate: false
+  xy: 2, 23
+  size: 96, 55
+  orig: 96, 55
+  offset: 0, 0
+  index: -1
+Mouth-Worried
+  rotate: false
+  xy: 954, 170
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 954, 201
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+Pants
+  rotate: false
+  xy: 745, 170
+  size: 207, 84
+  orig: 207, 84
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Apple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Apples
+  - PlayerHead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: EnvironmentBackground
+    uniqueID: 703744941
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Apple
+    uniqueID: 491336775
+    locked: 0
+  - name: Player
+    uniqueID: 3861275417
+    locked: 0
+  - name: EnvironmentForeground
+    uniqueID: 267725433
+    locked: 0
